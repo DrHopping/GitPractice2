@@ -1,1 +1,5 @@
-class Program1{}
+class Program1{
+    static void Main(){
+        
+    }
+}
