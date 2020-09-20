@@ -1,1 +1,1 @@
-class Program3{}
+class Program3{main()}
