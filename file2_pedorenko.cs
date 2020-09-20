@@ -1,1 +1,1 @@
-class Program2{}
+class Program2{void main(){}}
