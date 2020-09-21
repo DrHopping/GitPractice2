@@ -7,6 +7,7 @@ namespace HelloName2
         static void Main(string[] args)
         {
             Console.WriteLine("Hello <Name>!");
+            //hello2
         }
     }
 }
